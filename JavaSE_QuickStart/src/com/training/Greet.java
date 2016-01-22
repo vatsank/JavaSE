@@ -11,4 +11,9 @@ public class Greet {
 	{
 		return "hi "+name+ " Welcome to Java Programming";
 	}
+	
+	public String getMessage(){
+		
+		return "Newly added message";
+	}
 }
